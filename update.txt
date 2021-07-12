@@ -1,1 +1,1 @@
-{"version":"1","link":"hppts://www.google.com"}
+{"version":"2","link":"hppts://www.google.com"}
